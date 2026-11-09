@@ -31,7 +31,7 @@ Every answer comes from the ledger: one row per claim, with a URL and a verbatim
 
 2. Classify. Give each entity a type from the table, from its URL and its own site. Done when every entity has a type.
 
-3. Founders and countries. Climb the rungs in [references/source-ladder.md](references/source-ladder.md): country rungs first, founder rungs only to name a person the country rungs need. Work in waves and send every lookup of a wave at once; for more than 15 entities, split the waves across subagents when the host can start them. Spend at most four lookups per entity and field, plus a fifth in the home-market language when none of the four used it and it isn't English, then record `not_public`. Done when every founder, or the team, has a country status.
+3. Founders and countries. Climb the rungs in [references/source-ladder.md](references/source-ladder.md): country rungs first, founder rungs only to name a person the country rungs need. Work in waves and send every lookup of a wave at once; for more than 15 entities, split the waves across subagents when the host can start them; each returns its claims with URL and quote, and the main agent alone writes the ledger. Spend at most four lookups per entity and field, plus a fifth in the home-market language when none of the four used it and it isn't English, then record `not_public`. Done when every founder, or the team, has a country status.
 
 4. Ledger. Write `ledger.jsonl`, one row per claim:
 
