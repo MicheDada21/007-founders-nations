@@ -2,7 +2,7 @@
 
 Trova il Paese dei fondatori di aziende e strumenti, per nazionalità, nascita o crescita, e sostiene ogni dato con una citazione letterale in un registro JSONL.
 
-Fa parte della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library), dove la pagina di riferimento è [Trace where company founders come from](https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/007-founders-nations). Il repo contiene una copia della skill, rigenerata a ogni aggiornamento della libreria.
+Fa parte della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library), dove la pagina di riferimento è [007 founders nations](https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/007-founders-nations). Il repo contiene una copia della skill, rigenerata a ogni aggiornamento della libreria.
 
 ## Installare
 
