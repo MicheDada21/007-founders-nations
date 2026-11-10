@@ -1,6 +1,6 @@
 ---
 name: 007-founders-nations
-description: "Find the countries the founders of companies, products or tools come from (nationality, birth country or where they grew up), each claim backed by a verbatim quote in a JSONL ledger. Use when the user asks where founders come from, who founded a list of tools, or wants founder nationalities checked."
+description: "Finds each founder's country of nationality, birth or upbringing and backs every claim with a verbatim quote in a ledger. Use when asking where the founders of companies or tools come from."
 ---
 
 # 007 founders nations
